@@ -1,0 +1,16 @@
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\bin\Debug\LT_Time_Keeper_Kun.exe.config
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\bin\Debug\LT_Time_Keeper_Kun.exe
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\bin\Debug\LT_Time_Keeper_Kun.pdb
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.csproj.AssemblyReference.cache
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.Form1.resources
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.Properties.Resources.resources
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.csproj.GenerateResource.cache
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.csproj.CoreCompileInputs.cache
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.exe
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.pdb
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\obj\Debug\LT_Time_Keeper_Kun.csproj.ResolveComReference.cache
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC_User\source\repos\LT_Time_Keeper_Kun\bin\Debug\AxInterop.WMPLib.dll
